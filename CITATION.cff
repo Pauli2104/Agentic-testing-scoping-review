@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+title: "The Agent Explores, the Tester Decides: A Scoping Review of Agentic AI and Human Responsibility in Feature-Level Software Testing — replication package"
+type: dataset
+authors:
+  - family-names: "Otaño"
+    given-names: "Paula"
+    affiliation: "Systems Engineering Department, National Technological University, Córdoba Regional Faculty"
+  - family-names: "Rodriguez Rivero"
+    given-names: "Cristian"
+    affiliation: "Mechatronics Department, Fontys University of Applied Sciences"
+    email: "c.rodriguezrivero@fontys.nl"
+date-released: 2026-10-11
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - agentic AI
+  - software testing
+  - scoping review
+  - test oracle
+  - large language models
